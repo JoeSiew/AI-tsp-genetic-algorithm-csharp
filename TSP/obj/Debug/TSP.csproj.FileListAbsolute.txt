@@ -1,0 +1,10 @@
+C:\Users\Fats\Desktop\Utsco\TSP\bin\Debug\TSP.exe.config
+C:\Users\Fats\Desktop\Utsco\TSP\bin\Debug\TSP.exe
+C:\Users\Fats\Desktop\Utsco\TSP\bin\Debug\TSP.pdb
+C:\Users\Fats\Desktop\Utsco\TSP\obj\Debug\TSP.csprojResolveAssemblyReference.cache
+C:\Users\Fats\Desktop\Utsco\TSP\obj\Debug\TSP.Form1.resources
+C:\Users\Fats\Desktop\Utsco\TSP\obj\Debug\TSP.Properties.Resources.resources
+C:\Users\Fats\Desktop\Utsco\TSP\obj\Debug\TSP.csproj.GenerateResource.cache
+C:\Users\Fats\Desktop\Utsco\TSP\obj\Debug\TSP.csproj.CoreCompileInputs.cache
+C:\Users\Fats\Desktop\Utsco\TSP\obj\Debug\TSP.exe
+C:\Users\Fats\Desktop\Utsco\TSP\obj\Debug\TSP.pdb
