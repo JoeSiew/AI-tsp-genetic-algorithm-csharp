@@ -2,6 +2,9 @@
 
 Travelling Salesman Problem Solution with Genetic Algorithm - Language: C#
 
+# Documentation
+[You may read the following documentation for better understanding of this project](https://github.com/JoeSiew/TSP-GeneticAlgorithmCSharp/blob/master/doc/Project's%20Documentation.pdf)
+
 ## Problem Definition
 A new textbook salesman is planning to visit his potential clients (colleges or universities)
 located in eight major cities in Malaysia such as shown in the Table. He will set out from Kuala
